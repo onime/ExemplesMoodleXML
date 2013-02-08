@@ -20,7 +20,7 @@
 			<text>Ooops!</text>
 		</feedback>
 	</answer>
-	<answer fraction="0">
+	<answer fraction="50">
 		<text>Une autre mauvaise réponse</text>
 		<feedback>
 			<text>Ooops!</text>
